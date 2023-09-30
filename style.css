@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, sans-serif; /* Yazı tipi ailesi */
+    font-size: 11px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-color: #ecd7d7; /* Web sayfasının arka plan rengi */
+    color: #110a3a; /* Metin rengi */
+}
+
+h1 {
+    color: #000000; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: Helvetica, sans-serif, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1 {
+    color: #180700; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: Helvetica, sans-serif, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    text-align: center;
+}
